@@ -1,0 +1,23 @@
+Customer_1: Alan Smith
+Customer_1_Priority: 5
+
+Customer_2: Paul Sims
+Customer_2_Priority: 2
+
+Customer_3: John Smith
+Customer_3_Priority: 12
+
+Customer_4: Kevin Sims
+Customer_4_Priority: 3
+
+Customer_5: Alan Moose
+Customer_5_Priority: 7
+
+Customer_6: Sulivan Sims
+Customer_6_Priority: 9
+
+Customer_7: Stan Smith
+Customer_7_Priority: 182
+
+Customer_8: Simpson Sims
+Customer_9_Priority: 90
